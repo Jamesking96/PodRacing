@@ -13,14 +13,8 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SteamVR",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Linux",
-				"Mac"
-			]
+			"Name": "FMODStudio",
+			"Enabled": true
 		},
 		{
 			"Name": "OculusVR",
@@ -29,6 +23,16 @@
 				"Win32",
 				"Win64",
 				"Android"
+			]
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux",
+				"Mac"
 			]
 		}
 	]
